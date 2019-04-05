@@ -59,8 +59,8 @@ class Navbar extends Component {
                     </div>
                     <div className="col-4 col-mr-auto">
                     <div id="top-filler"></div>
-                        <img src={logo} className="App-logo" alt="logo" />
-                        <h1 className="App-title">MERN Passport</h1>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOewC-EkhJnZ1Zx26lnWZyiyFlRYs-t2xHBkHiUegVcLVBIqB" className="App-logo" alt="beer" />
+                        
                     </div>
                 </header>
             </div>
